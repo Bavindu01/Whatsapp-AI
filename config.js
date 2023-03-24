@@ -7,7 +7,7 @@ global.openaikey = process.env.OPEN_AI_KEY || "ENTER_API-KEY_HERE", //Put Open A
 	
 global.owner = process.env.OWNER || "94713378049", //Bot Owner Number
 	
-global.ownername = process.env.OWNER_NAME || "theekshana", //Bot Owner Name
+global.ownername = process.env.OWNER_NAME || "Theekshana", //Bot Owner Name
 	
 global.open_ai = process.env.OPEN_AI || "false", //Open AI Bot : "true" = on/"false" = off
 	
